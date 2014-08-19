@@ -8,8 +8,6 @@ from tealight.robot import (move,
 
 
 # Add your code here
-
-
-
-
-
+distance=10
+for n in range(0,distance):
+  move()
