@@ -14,3 +14,4 @@ for n in range(0,distance):
   
   if touch()=='wall':
     
+   
