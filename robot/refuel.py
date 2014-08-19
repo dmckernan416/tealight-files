@@ -11,3 +11,6 @@ from tealight.robot import (move,
 distance=10
 for n in range(0,distance):
   move()
+  
+  if touch()=='wall':
+    
