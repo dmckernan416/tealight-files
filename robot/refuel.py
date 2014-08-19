@@ -10,6 +10,6 @@ from tealight.robot import (move,
 # Add your code here
 move()
 turn(1)
-move(2)
+move(1)
 
 
