@@ -8,7 +8,5 @@ from tealight.robot import (move,
 
 
 smell()
-if smell()<1
-  while n<6
+if smell()<1:
   move()
-  n=n+1
