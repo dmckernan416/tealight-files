@@ -8,3 +8,4 @@ from tealight.robot import (move,
 
 if touch()=="fruit":
   move()
+  endif
