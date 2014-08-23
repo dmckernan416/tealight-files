@@ -6,4 +6,3 @@ from tealight.robot import (move,
                             left_side, 
                             right_side)
 
-print "is this working??"
