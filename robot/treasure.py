@@ -7,6 +7,3 @@ from tealight.robot import (move,
                             right_side)
 
 
-smell()
-if smell()<1:
-  move()
