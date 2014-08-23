@@ -1,6 +1,5 @@
 print "This is lib.py"
 
-def lib_func(age):
-  return age+1
+def lib_func():
+  return 42
 
-print "next birthday age" + " "+ str(lib_func(5))
